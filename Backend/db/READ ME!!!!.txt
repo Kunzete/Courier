@@ -1,0 +1,4 @@
+1. First create 'courierdb' Database in PhpMyAdmin.
+2. Import 'courierdb.sql'
+
+Have a nice day :)
